@@ -42,7 +42,7 @@ For methodology, assumptions, charts, and key takeaways, read the full article h
 
 ---
 
-This is an academic project.
+This is an academic project. <br>
 Note: The simulation model (Simualtion_models.xlsx) included here is an independently created version used to replicate the logic described in our Medium article, raw data is not included. It is based on our own understanding and does not contain or reproduce any copyrighted material.
 
 
