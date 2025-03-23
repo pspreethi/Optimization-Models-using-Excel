@@ -1,4 +1,4 @@
-# [Read the Full Analysis on Medium]()
+# [Read the Full Analysis on Medium](https://medium.com/@pokasaipreethi/outsourcing-vs-near-sourcing-how-we-modeled-supply-chain-flexibility-in-fast-fashion-8e19b9b34988)
 
 # Supply Chain Optimization: Outsourcing and Near-Sourcing in the Apparel Industry
 
@@ -38,7 +38,7 @@ No coding required.
 ## Full Case Study
 
 For methodology, assumptions, charts, and key takeaways, read the full article here:  
-[**Outsourcing vs Near-Sourcing: How We Modeled Supply Chain Flexibility in Fast Fashion**
+[**Outsourcing vs Near-Sourcing: How We Modeled Supply Chain Flexibility in Fast Fashion**](https://medium.com/@pokasaipreethi/outsourcing-vs-near-sourcing-how-we-modeled-supply-chain-flexibility-in-fast-fashion-8e19b9b34988)
 
 ---
 
